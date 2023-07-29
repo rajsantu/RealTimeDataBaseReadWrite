@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealTimeDataBaseReadWrite</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="firebase_realtime_database">Firebase Realtime DataBase</string>
+    <string name="submit">Submit</string>
+</resources>

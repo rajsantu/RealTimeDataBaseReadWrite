@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903263522947",
+    "project_id": "realtimedatabasereadwrit-c8efe",
+    "storage_bucket": "realtimedatabasereadwrit-c8efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903263522947:android:9daf8872a372e7556d0bb6",
+        "android_client_info": {
+          "package_name": "com.mainpackage.realtimedatabasereadwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903263522947-ucka3bg89fi70onbvdpkmo458pstgel7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDRq_n0ck-J8TEI6TXeuI18CMZo2Ia_3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903263522947-ucka3bg89fi70onbvdpkmo458pstgel7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
